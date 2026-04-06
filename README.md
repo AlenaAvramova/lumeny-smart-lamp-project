@@ -1,9 +1,9 @@
-# Lumenny Smart Lamp Project
+# Lumeny Smart Lamp Project
 
 ![Project Preview](media/physical/lumeny-setup-main.jpeg)
 
 ## Overview
-Lumenny is a smart sensor-based lamp built with Arduino.  
+Lumeny is a smart sensor-based lamp built with Arduino.  
 It automatically reacts to motion and light conditions using sensors.
 
 ## Features
